@@ -3,7 +3,7 @@
     "keywords": ["yii", "jwt"],
     "description": "Trait for easier JWT integration",
     "homepage": "github.com/alfarioekaputra/yii2-jwt",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "type": "yii2-extension",
     "license": "MIT",
     "authors": [
