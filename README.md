@@ -12,7 +12,7 @@ To install (only master is available now) run:
 ```
 Or add this line to *require* section of composer.json:
 ```
-    "alfarioekaputra/yii2-jwt": "stable-master"
+    "alfarioekaputra/yii2-jwt": "dev-master"
 ```
 
 ## Usage
