@@ -1,5 +1,5 @@
 {
-    "name": "damirka/yii2-jwt",
+    "name": "alfarioekaputra/yii2-jwt",
     "keywords": ["yii", "jwt"],
     "description": "Trait for easier JWT integration",
     "homepage": "github.com/alfarioekaputra/yii2-jwt",
@@ -11,13 +11,18 @@
             "name": "Damir Shamanaev",
             "email": "damirka.ru@gmail.com",
             "homepage": "https://github.com/damirka"
+        },
+        {
+            "name": "Alfario Eka Putra",
+            "email": "alfarioekaputra@gmail.com",
+            "homepage": "https://github.com/alfarioekaputra"
         }
     ],
     "autoload": {
-        "psr-4": {"damirka\\JWT\\": "src/"}
+        "psr-4": {"alfarioekaputra\\JWT\\": "src/"}
     },
     "require": {
-        "yiisoft/yii2": "~2.0.0",
-        "firebase/php-jwt": "^5.0"
+        "yiisoft/yii2": "*",
+        "firebase/php-jwt": "*"
     }
 }
