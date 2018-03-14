@@ -2,7 +2,7 @@
     "name": "damirka/yii2-jwt",
     "keywords": ["yii", "jwt"],
     "description": "Trait for easier JWT integration",
-    "homepage": "https://github.com/damirka/yii2-jwt",
+    "homepage": "github.com/alfarioekaputra/yii2-jwt",
     "minimum-stability": "stable",
     "type": "yii2-extension",
     "license": "MIT",
