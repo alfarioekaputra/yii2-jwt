@@ -4,17 +4,6 @@ JWT implementation for Yii2 Authorization process
 
 For details see [JWT official website](https://jwt.io/introduction/).
 
-## Installation
-
-To install (only master is available now) run:
-```
-    composer require "alfarioekaputra/yii2-jwt:v0.2.3"
-```
-Or add this line to *require* section of composer.json:
-```
-    "alfarioekaputra/yii2-jwt": "v0.2.3"
-```
-
 ## Usage
 
 There is only one trait - *UserTrait* - which gives you 5 methods for
